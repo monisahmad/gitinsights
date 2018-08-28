@@ -1,0 +1,40 @@
+.App {
+    width:100%; 
+    position: absolute;
+    top: 50%; margin-top:-12.5%;
+    left: 50%; margin-left:-50%;
+    text-align:center
+}​
+
+.content {
+  width:100%; 
+  position: absolute;
+  top: 10%; margin-top:-12.5%;
+  left: 50%; margin-left:-50%;
+  text-align:center
+}​
+
+
+button{
+  margin: 0 auto;
+  position:relative;
+  top:50%; 
+  left:50%;
+}
+
+.cardMedia {
+  max-width:240px;
+  max-height:240px;
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+}
+
+.username {
+  text-align: center;
+}
+
+.connect {
+  width: 60%;
+  margin: 0 auto;
+}
