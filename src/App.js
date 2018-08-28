@@ -63,6 +63,9 @@ class App extends Component {
             <Typography variant="caption" gutterBottom align="center">
               made with <span role="img" aria-label="heart">❤️</span> by <a href="https://github.com/monisahmad">Monis Ahmad</a>
             </Typography>
+            <Typography variant="caption" gutterBottom align="center">
+              <a href="https://github.com/monisahmad/gitinsights">Source Code on Github</a>
+            </Typography>
           </Paper>
         </div>
       );
@@ -117,6 +120,9 @@ class App extends Component {
         <br /><br />
         <Typography variant="caption" gutterBottom align="center">
               made with <span role="img" aria-label="heart">❤️</span> by <a href="https://github.com/monisahmad">Monis Ahmad</a>
+        </Typography>
+        <Typography variant="caption" gutterBottom align="center">
+          <a href="https://github.com/monisahmad/gitinsights">Source Code on Github</a>
         </Typography>
       </div>
     );
